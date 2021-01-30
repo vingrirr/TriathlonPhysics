@@ -1,0 +1,23 @@
+c:\users\user\documents\visual studio 2010\Projects\TriathlonPhysics\TriathlonPhysics\bin\Debug\TriathlonPhysics.exe
+c:\users\user\documents\visual studio 2010\Projects\TriathlonPhysics\TriathlonPhysics\bin\Debug\TriathlonPhysics.pdb
+c:\users\user\documents\visual studio 2010\Projects\TriathlonPhysics\TriathlonPhysics\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\TriathlonPhysics\TriathlonPhysics\obj\x86\Debug\TriathlonPhysics.exe
+c:\users\user\documents\visual studio 2010\Projects\TriathlonPhysics\TriathlonPhysics\obj\x86\Debug\TriathlonPhysics.pdb
+C:\Users\User\Desktop\SVN\YouTri\TriathlonPhysics\TriathlonPhysics\obj\x86\Debug\TriathlonPhysics.exe
+C:\Users\User\Desktop\SVN\YouTri\TriathlonPhysics\TriathlonPhysics\obj\x86\Debug\TriathlonPhysics.pdb
+C:\Users\User\Desktop\SVN\YouTri\TriathlonPhysics\TriathlonPhysics\bin\Debug\TriathlonPhysics.exe
+C:\Users\User\Desktop\SVN\YouTri\TriathlonPhysics\TriathlonPhysics\bin\Debug\TriathlonPhysics.pdb
+C:\Users\User\Desktop\SVN\YouTri\TriathlonPhysics\TriathlonPhysics\bin\Debug\TriathlonPhysics.exe.config
+C:\Users\User\Desktop\SVN\YouTri\TriathlonPhysics\TriathlonPhysics\bin\Debug\YouTri.dll
+C:\Users\User\Desktop\SVN\YouTri\TriathlonPhysics\TriathlonPhysics\bin\Debug\YouTriCommon.dll
+C:\Users\User\Desktop\SVN\YouTri\TriathlonPhysics\TriathlonPhysics\obj\x86\Debug\TriathlonPhysics.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\svn\TriathlonPhysics\TriathlonPhysics\TriathlonPhysics\bin\Debug\TriathlonPhysics.exe.config
+C:\Users\User\Desktop\svn\TriathlonPhysics\TriathlonPhysics\TriathlonPhysics\obj\x86\Debug\TriathlonPhysics.exe
+C:\Users\User\Desktop\svn\TriathlonPhysics\TriathlonPhysics\TriathlonPhysics\obj\x86\Debug\TriathlonPhysics.pdb
+C:\Users\User\Desktop\svn\MyProjects\trunk\TriathlonPhysics\TriathlonPhysics\TriathlonPhysics\bin\Debug\TriathlonPhysics.dll.config
+C:\Users\User\Desktop\svn\MyProjects\trunk\TriathlonPhysics\TriathlonPhysics\TriathlonPhysics\bin\Debug\TriathlonPhysics.dll
+C:\Users\User\Desktop\svn\MyProjects\trunk\TriathlonPhysics\TriathlonPhysics\TriathlonPhysics\bin\Debug\TriathlonPhysics.pdb
+C:\Users\User\Desktop\svn\MyProjects\trunk\TriathlonPhysics\TriathlonPhysics\TriathlonPhysics\bin\Debug\YouTri.dll
+C:\Users\User\Desktop\svn\MyProjects\trunk\TriathlonPhysics\TriathlonPhysics\TriathlonPhysics\obj\x86\Debug\TriathlonPhysics.dll
+C:\Users\User\Desktop\svn\MyProjects\trunk\TriathlonPhysics\TriathlonPhysics\TriathlonPhysics\obj\x86\Debug\TriathlonPhysics.pdb
+C:\Users\User\Desktop\svn\MyProjects\trunk\TriathlonPhysics\TriathlonPhysics\TriathlonPhysics\obj\x86\Debug\TriathlonPhysics.csprojResolveAssemblyReference.cache
